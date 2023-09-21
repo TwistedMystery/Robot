@@ -11,4 +11,5 @@ PCB MODULE Robodo OV7670 640x480 VGA CMOS Camera Image Sensor Module for Arduino
 https://www.amazon.in/MODULE-OV7670-Robodo-640x480-Arduino/dp/B09KXVZMZD/ref=sr_1_4?crid=26W1SI2YM836F&keywords=OV7076&qid=1695277614&sprefix=ov7076+%2Caps%2C344&sr=8-4
 
 Task[Maruthi] To create a model for the base of the robot
+
 -
