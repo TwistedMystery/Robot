@@ -14,11 +14,11 @@ In the future, if the system is successfully implemented, machine learning techn
 
 | S.No | Task Description                                                      | Status |
 |------|------------------------------------------------------------------------|--------|
-| 1    | Making the budget list                                                 |        |
-| 2    | Checking the working of various parts                                  |        |
-| 3    | Checking the working of various parts (repeated task)                  |        |
-| 4    | Ensuring the software works                                            |        |
-| 5    | Listing the parts already available and functional                     |        |
+| 1    | Making the budget list                                                 |  Yes   |
+| 2    | Checking the working of various parts                                  |  To do |
+| 3    | Checking the working of various parts (repeated task)                  |  To do |
+| 4    | Ensuring the software works                                            |  To do |
+| 5    | Listing the parts already available and functional                     |  To do |
 | 6    | Redesigning the 3D parts                                               |        |
 | 7    | Completing the 3D printing of parts                                    |        |
 | 8    | Assembling the robot parts                                             |        |
@@ -26,4 +26,6 @@ In the future, if the system is successfully implemented, machine learning techn
 | 10   | Reprogramming the system to incorporate inverse kinematics into the build |        |
 
 Feel free to contribute, fork, or raise issues for the project!
+
+
 
