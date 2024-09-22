@@ -1,15 +1,27 @@
-Motorized-Camera-Operational-Robot
-The project aims to create a prototype for a camera operational robot.
-*Task[Sobuj] Convert the fusion file to Soildworks for modelling of the arm robot  
--To do this, first open SolidWorks and select File >Import >Fusion 360 Files. You can then select the Fusion 360 files you want to import and click OK.
--Another way to import Fusion 360 files into SolidWorks is to use the File > Import > STL Files command.
-the required files for the arm model can be accessed through this link https://drive.google.com/drive/folders/1x4P8AquQILwCp8e5CiRJLfVJiJn2U4cF 
-this is the converted file that can be used https://drive.google.com/file/d/1jaC0KaEvDPPcT2rL2CVHNNYj0iRIY5Jh/view?usp=sharing
+# Robot Project
 
-Camera Module 
-PCB MODULE Robodo OV7670 640x480 VGA CMOS Camera Image Sensor Module for Arduino
-https://www.amazon.in/MODULE-OV7670-Robodo-640x480-Arduino/dp/B09KXVZMZD/ref=sr_1_4?crid=26W1SI2YM836F&keywords=OV7076&qid=1695277614&sprefix=ov7076+%2Caps%2C344&sr=8-4
+This repository contains the documentation and code for a pick and place robot project. The goal of the project is to create a compact 4 DOF (Degree of Freedom) robot, utilizing 3D printed parts for the links, servo motors for movement, and an Arduino Uno for control.
 
-Task[Maruthi] To create a model for the base of the robot
+## Project Overview
 
--
+The initial design involves controlling the robot using a smaller, 3D-printed arm, where signals from its angular movement are translated into the motions of the larger robot arm. The project aims to evolve this concept by integrating inverse kinematics and polynomial regression to enable the robot's autonomous movement.
+
+In the future, if the system is successfully implemented, machine learning techniques could be incorporated to allow the robot to handle complex materials.
+
+## Task List
+
+| S.No | Task Description                                                      | Status |
+|------|------------------------------------------------------------------------|--------|
+| 1    | Making the budget list                                                 |        |
+| 2    | Checking the working of various parts                                  |        |
+| 3    | Checking the working of various parts (repeated task)                  |        |
+| 4    | Ensuring the software works                                            |        |
+| 5    | Listing the parts already available and functional                     |        |
+| 6    | Redesigning the 3D parts                                               |        |
+| 7    | Completing the 3D printing of parts                                    |        |
+| 8    | Assembling the robot parts                                             |        |
+| 9    | Getting the robot to function as expected                              |        |
+| 10   | Reprogramming the system to incorporate inverse kinematics into the build |        |
+
+Feel free to contribute, fork, or raise issues for the project!
+
