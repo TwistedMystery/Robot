@@ -6,6 +6,9 @@ This repository contains the documentation and code for a pick and place robot p
 
 ![Robot Design Image](https://github.com/TwistedMystery/Robot/blob/main/Robot%202.jpg)
 
+The controller for the Arm Robot
+![Arm Controller](https://github.com/TwistedMystery/Robot/blob/main/Robot%203.jpg)
+
 ## Project Overview
 
 The initial design involves controlling the robot using a smaller, 3D-printed arm, where signals from its angular movement are translated into the motions of the larger robot arm. The project aims to evolve this concept by integrating inverse kinematics and polynomial regression to enable the robot's autonomous movement.
