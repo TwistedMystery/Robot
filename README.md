@@ -32,21 +32,27 @@ In the future, if the system is successfully implemented, machine learning techn
 
 ## Electronics
 
-| Part | Quantity | Price (INR) | Notes |
-| ---- | -------- | ------------| ----- |
-| High Torque Servo Motor (20KG RC Servo High Torque Servo Motors) | 1 unit | 1,340.33 | |
-| Standard Servo Motors (MG996R 55g Metal Gear Torque Digital Servo Motor) | 3 units | 280 x 3 = 840 | |
-| Micro Servo Motor (SG90 9g Micro Servos) | 1 unit | 71 | |
-| Arduino Uno (or Leonardo) | 1 unit | 1,300 | |
-| Servo Driver Module (PCA9685 - 16 Channel 12-Bit PWM Servo Motor Driver I2C Module For Arduino) | 1 unit | 240 | |
-| Potentiometers (WH148 Type B10K Ohm Linear Taper Rotary Potentiometer Panel Pot 3 Pin) | 4 units | 299 | |
-| Push Button | 1 unit | 5 | |
-| LED | 1 unit | 5 | |
-| Switch | 1 unit | 7 | |
-| Wires | As needed | 50 | Hook-up wires |
-| Set of Wires | Various lengths | 78 + 68 | |
-| Shrink Wrap | As needed | 12 | For wire insulation |
-| Adapter cable | Various types | 99 + 48 | Adapter + female attachment |
+## Electronics
+
+### Required Components
+
+| Part | Quantity | Price (INR) | Working Condition | Notes |
+| ---- | -------- | ------------| ----------------- | ----- |
+| High Torque Servo Motor (20KG RC Servo) | 1 unit | 1,340.33 | Tested - Working | Used for high-torque movements |
+| Standard Servo Motors (MG996R) | 3 units | 280 x 3 = 840 | Tested - Working | For arm movements |
+| Micro Servo Motor (SG90) | 1 unit | 71 | Untested | For minor adjustments |
+| Arduino Uno (or Leonardo) | 1 unit | 1,300 | Tested - Working | Controls all components |
+| Servo Driver Module (PCA9685) | 1 unit | 240 | Tested - Working | Controls multiple servo motors |
+| Potentiometers (B10K Ohm) | 4 units | 299 | Untested | Used for adjusting position |
+| Push Button | 1 unit | 5 | Tested - Working | Trigger for operations |
+| LED | 1 unit | 5 | Tested - Working | For visual feedback |
+| Switch | 1 unit | 7 | Untested | On/off control |
+| Wires | As needed | 50 | Tested - Working | For electrical connections |
+| Set of Wires (Various lengths) | As needed | 78 + 68 | Tested - Working | |
+| Shrink Wrap | As needed | 12 | Tested - Working | For wire insulation |
+| Adapter Cable | Various types | 99 + 48 | Tested - Working | Adapter + female attachment |
+
+
 
 ## Mechanical Components
 
