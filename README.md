@@ -30,6 +30,53 @@ In the future, if the system is successfully implemented, machine learning techn
 | 9    | Getting the robot to function as expected                              |        |
 | 10   | Reprogramming the system to incorporate inverse kinematics into the build |        |
 
-Feel free to contribute, fork, or raise issues for the project!
+## Electronics
+
+| Part | Quantity | Price (INR) | Notes |
+| ---- | -------- | ------------| ----- |
+| High Torque Servo Motor (20KG RC Servo High Torque Servo Motors) | 1 unit | 1,340.33 | |
+| Standard Servo Motors (MG996R 55g Metal Gear Torque Digital Servo Motor) | 3 units | 280 x 3 = 840 | |
+| Micro Servo Motor (SG90 9g Micro Servos) | 1 unit | 71 | |
+| Arduino Uno (or Leonardo) | 1 unit | 1,300 | |
+| Servo Driver Module (PCA9685 - 16 Channel 12-Bit PWM Servo Motor Driver I2C Module For Arduino) | 1 unit | 240 | |
+| Potentiometers (WH148 Type B10K Ohm Linear Taper Rotary Potentiometer Panel Pot 3 Pin) | 4 units | 299 | |
+| Push Button | 1 unit | 5 | |
+| LED | 1 unit | 5 | |
+| Switch | 1 unit | 7 | |
+| Wires | As needed | 50 | Hook-up wires |
+| Set of Wires | Various lengths | 78 + 68 | |
+| Shrink Wrap | As needed | 12 | For wire insulation |
+| Adapter cable | Various types | 99 + 48 | Adapter + female attachment |
+
+**Total Cost (Electronics): TBD**
+
+## Mechanical Components
+
+| Part | Quantity | Price (INR) | Notes |
+| ---- | -------- | ------------| ----- |
+| 3D Printed Parts | Various pieces | 1,200 | Specific STL files linked in the original tutorial |
+| 40-Tooth Gears | 2 units | 140 (for 22 gears) | |
+| 34-Tooth Gear | 1 unit | - | |
+| Small Piece of Clear Acrylic | 1 unit | - | For specific assembly parts |
+| Foam or Grippy Substance | As needed | - | For the gripper |
+| Rubber Band | 1 unit | - | |
+| Screws (M4 x 6mm) | Various sizes | - | |
+| Servo Horn | Included with servos | - | |
+| Additional Screws | Various sizes | - | 10 (2.5 x 1.6 x 4.5), 4 (M4 x 6mm washer), 3 (M3 x 8mm washer), 6 (washer + M2 x 8mm), 4 (M2 x 4mm), 7 (M2 x 6mm), 4 (M3 x 30mm) |
+
+## Tools Required
+
+| Tool | Quantity | Notes |
+| ---- | -------- | ----- |
+| Screwdrivers | Various sizes | |
+| Glue | As needed | For assembling certain parts |
+| Soldering Iron | 1 unit | For connecting wires |
+| Crimpers | 1 unit | For securing connections |
+| Cutters and Wire Strippers | 1 set | For preparing wires |
+| Torch (optional) | 1 unit | For heating shrink wrap |
+
+## Assembly Instructions
+
+
 
 
