@@ -48,8 +48,6 @@ In the future, if the system is successfully implemented, machine learning techn
 | Shrink Wrap | As needed | 12 | For wire insulation |
 | Adapter cable | Various types | 99 + 48 | Adapter + female attachment |
 
-**Total Cost (Electronics): TBD**
-
 ## Mechanical Components
 
 | Part | Quantity | Price (INR) | Notes |
@@ -75,6 +73,7 @@ In the future, if the system is successfully implemented, machine learning techn
 | Cutters and Wire Strippers | 1 set | For preparing wires |
 | Torch (optional) | 1 unit | For heating shrink wrap |
 
+Total Cost of the project: Rs. 6000/-
 ## Assembly Instructions
 
 
