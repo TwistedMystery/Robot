@@ -1,6 +1,7 @@
 # Robot Project
 
-![Robot Image](https://github.com/TwistedMystery/Motorized-Camera-Operational-Robot/blob/main/Robot%201.jpg)
+![Robot Image](https://github.com/TwistedMystery/Robot/blob/main/Robot%201.jpg?raw=true)
+
 
 This repository contains the documentation and code for a pick and place robot project. The goal of the project is to create a compact 4 DOF (Degree of Freedom) robot, utilizing 3D printed parts for the links, servo motors for movement, and an Arduino Uno for control.
 
