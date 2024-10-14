@@ -30,7 +30,6 @@ In the future, if the system is successfully implemented, machine learning techn
 | 9    | Getting the robot to function as expected                              |        |
 | 10   | Reprogramming the system to incorporate inverse kinematics into the build |        |
 
-## Electronics
 
 ## Electronics
 
@@ -38,19 +37,19 @@ In the future, if the system is successfully implemented, machine learning techn
 
 | Part | Quantity | Price (INR) | Working Condition | Notes |
 | ---- | -------- | ------------| ----------------- | ----- |
-| High Torque Servo Motor (20KG RC Servo) | 1 unit | 1,340.33 | Tested - Working | Used for high-torque movements |
-| Standard Servo Motors (MG996R) | 3 units | 280 x 3 = 840 | Tested - Working | For arm movements |
+| High Torque Servo Motor (20KG RC Servo) | 1 unit | 1,340.33 | Untested | Used for high-torque movements |
+| Standard Servo Motors (MG996R) | 3 units | 280 x 3 = 840 | Untested | For arm movements |
 | Micro Servo Motor (SG90) | 1 unit | 71 | Untested | For minor adjustments |
-| Arduino Uno (or Leonardo) | 1 unit | 1,300 | Tested - Working | Controls all components |
-| Servo Driver Module (PCA9685) | 1 unit | 240 | Tested - Working | Controls multiple servo motors |
+| Arduino Uno (or Leonardo) | 1 unit | 1,300 | Untested | Controls all components |
+| Servo Driver Module (PCA9685) | 1 unit | 240 | Untested | Controls multiple servo motors |
 | Potentiometers (B10K Ohm) | 4 units | 299 | Untested | Used for adjusting position |
-| Push Button | 1 unit | 5 | Tested - Working | Trigger for operations |
-| LED | 1 unit | 5 | Tested - Working | For visual feedback |
+| Push Button | 1 unit | 5 | Untested | Trigger for operations |
+| LED | 1 unit | 5 | Untested | For visual feedback |
 | Switch | 1 unit | 7 | Untested | On/off control |
-| Wires | As needed | 50 | Tested - Working | For electrical connections |
-| Set of Wires (Various lengths) | As needed | 78 + 68 | Tested - Working | |
-| Shrink Wrap | As needed | 12 | Tested - Working | For wire insulation |
-| Adapter Cable | Various types | 99 + 48 | Tested - Working | Adapter + female attachment |
+| Wires | As needed | 50 | Untested | For electrical connections |
+| Set of Wires (Various lengths) | As needed | 78 + 68 | Untested | |
+| Shrink Wrap | As needed | 12 | Untested | For wire insulation |
+| Adapter Cable | Various types | 99 + 48 | Untested | Adapter + female attachment |
 
 
 
